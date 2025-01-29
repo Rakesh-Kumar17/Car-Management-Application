@@ -95,6 +95,20 @@ Create vercel.json in the root folder:
 
 ## Screenshots
 
+## Login/Registration Page
 
+![](images/1.png)
+
+## List of Cars
+
+![](images/2.png)
+
+## Adding New Car
+
+![](images/3.png)
+
+## Selecting particular Car
+
+![](images/4.png)
 
 >>>>>>> 61d9d01 (Initial commit or your message here)
